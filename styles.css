@@ -1,0 +1,123 @@
+
+h1 {
+    margin-left: 100px;
+}
+
+.container-fluids {
+    background-image:url('DarkGrey.jpg');
+    padding: 20px 0 20px 0;
+}
+
+/*navigation bar*/
+.navbar-brand {
+    font-family: "Send Flowers";
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding-bottom: 0 0 4.5rem;
+    margin-left: 80px;
+
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size:1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+/*title*/
+#project {
+    padding: 7% 15%;
+    background-image:url('DarkGrey.jpg');
+    color: #fff;
+}
+
+.project-img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.project-text {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.project-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.project-link:hover {
+    color: lightgrey;
+}
+
+/*About*/
+
+#about {
+    margin: 3%;
+}
+
+.about-body {
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.about-text {
+    font-family: "Montserrat-black";
+}
+
+/*work*/
+
+#work{
+    position: relative;
+}
+
+.work-title {
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+.work-box {
+    padding: 5%;
+    text-align: center;
+    background-color: #2b363a;
+    color: #fff;
+    background-image:url('DarkGrey.jpg');
+}
+
+.work-b {
+    font-weight: lighter;
+}
+
+/*Programming Experience*/
+#programming {
+    padding: 3% 15%;
+    text-align: center;
+}
+
+.programming-body {
+    font-family: "Montserrat-black";
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Footer*/
+#footer {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.social-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
